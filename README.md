@@ -24,7 +24,7 @@ This repository contains several utility scripts written in Python. Each script 
 - **Description**: A script that automatically analyzes whether a given string is binary or normal English text. It then converts the string to its binary representation or vice versa accordingly.
 - **Output**:
   
--  ![String to Binary Converter Output]((https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/cdc2a040-0737-48a6-9f6d-c84d526285e3)
+  ![String to Binary Converter Output](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/cdc2a040-0737-48a6-9f6d-c84d526285e3)
 
 
 ### Pomodoro App
@@ -32,15 +32,15 @@ This repository contains several utility scripts written in Python. Each script 
 - **Description**: A simple Pomodoro timer application that helps users manage their time using the Pomodoro technique.
 - **Output**:
 
--   ![Pomodoro App Output](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/66c33c46-aa67-4a74-aeed-bcd47fcac988)
+   ![Pomodoro App Output](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/66c33c46-aa67-4a74-aeed-bcd47fcac988)
 
 
 ### Caesar Cipher
 
 - **Description**: A script that takes a string input and encrypts it using the Caesar cipher technique with a provided key.
 - **Output**:
-  
--   ![Caesar Cipher Output](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/543d3be1-46a3-486a-b5d7-ae539feae3f3)
+
+  ![Caesar Cipher Output](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/543d3be1-46a3-486a-b5d7-ae539feae3f3)
 
 
 Feel free to explore each script to learn more about its functionality and how it can be useful for your projects!
