@@ -10,7 +10,7 @@ This repository contains several utility scripts written in Python. Each script 
 
 - **Description**: A script that utilizes natural language processing (NLP) techniques to parse fitness-related natural text like "I ran for about 20 mins" and extract details such as exercise type, duration, and calorie burn. It then adds this information to a Google Sheet using Sheety API.
 - Replace API's key with your own
-- Create your own copy of the Google sheet: [Sheet Link](https://docs.google.com/spreadsheets/d/1RVfoARWCoN5Hp6Ezxo58u2bXAMvQpx09qLOddanry6Q/edit?usp=sharing)
+- Create your own copy of the Google sheet: [Sheet Link](https://docs.google.com/spreadsheets/d/1Kv0B_DU7E3W5n5VU6kVU05M7fGr8TgGQHlcZHnrIkIU/edit?usp=sharing)
 - Use sheet URL with Sheety to get API URL: [Sheety API](https://sheety.co/)
 - **Output**:
 - 
