@@ -9,6 +9,10 @@ Welcome to the Password Manager script! This script provides a convenient way to
 - **Search Functionality**: Allows you to search for specific passwords by website or username.
 - **Encryption**: Encrypts password before saving password.
 
+##Output
+
+![password manager](https://github.com/Baniya-sen/Basic-Utility-Scripts/assets/144620117/2b304310-df59-433c-8a25-0161019b63f9)
+
 ## Usage
 
 1. **Run the Script**: Execute the `main.py` file to launch the password manager.
